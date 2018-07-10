@@ -1,0 +1,13 @@
+{
+    "name": "1/homework_5_1",
+    "authors": [
+        {
+            "name": "Kanstantsin",
+            "email": "kanstantsin.litvin@gmail.com"
+        }
+    ],
+    "require": {
+    	"php": ">5.2",
+        "yandex/geo": "^1.1"
+    }
+}
